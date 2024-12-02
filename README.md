@@ -4,9 +4,9 @@
 Learning basics of C, Python, HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn!
 👋 Hi, I’m Bhuvan Shetty<br>
 🔭 I’m currently Student <br>
-🖥️  See my portfolio <a href="https://www.linkedin.com/in/karthik-nayak-253387200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFGqnZU06Sm6liuQtlRCFvQ%3D%3D">Here</a><br>
+🖥️  See my portfolio <a href="https://bhuvanshettyy.github.io/portfolio">Here</a><br>
 🌱 I’m currently learning on web development<br>
-📫Reach Me @<a href="https://www.linkedin.com/in/karthik-nayak-253387200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFGqnZU06Sm6liuQtlRCFvQ%3D%3D">LinkedIn</a><br>
+📫Reach Me @<a href="https://www.linkedin.com/in/bhuvanshettyy/">LinkedIn</a><br>
 
 ### Skills
 
