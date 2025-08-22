@@ -1,9 +1,9 @@
 # 💫 About Me:
-4th Year ,CSE Student at VCET,Puttur
+Fresh Graduate
 ------------------------------------
 Learning basics of C, Python, HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn!
 👋 Hi, I’m Bhuvan Shetty<br>
-🔭 I’m currently Student <br>
+🔭 I’m currently Fresher <br>
 🖥️  See my portfolio <a href="https://bhuvanshettyy.github.io/portfolio">Here</a><br>
 🌱 I’m currently learning on web development<br>
 📫Reach Me @<a href="https://www.linkedin.com/in/bhuvanshettyy/">LinkedIn</a><br>
