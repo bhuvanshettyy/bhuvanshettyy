@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron+Code&weight=500&size=24&pause=1000&width=435&lines=Hello+I%27m+Bhuvan+Shetty;Here+is+my+intro+%E2%86%92" alt="Typing SVG" />
 # 💫 About Me:
 Fresh Graduate
 ------------------------------------
