@@ -1,18 +1,17 @@
 
 # <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg">
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron+Code&weight=500&size=24&pause=1000&width=435&lines=Hello+I%27m+Bhuvan+Shetty;Here+is+my+intro+%E2%86%92" alt="Typing SVG" />
-# 💫 About Me:
+## 💫 About Me:
+
 Fresh Graduate
-------------------------------------
-Learning basics of C, Python, HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn!
+------------------------------------<br>
 👋 Hi, I’m Bhuvan Shetty<br>
 🔭 I’m currently Fresher <br>
 🖥️  See my portfolio <a href="https://bhuvanshettyy.github.io/portfolio">Here</a><br>
-🌱 I’m currently learning on web development<br>
+🌱 I’m seeking development opportunities<br>
 📫Reach Me @<a href="https://www.linkedin.com/in/bhuvanshettyy/">LinkedIn</a><br>
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -35,10 +34,6 @@ Learning basics of C, Python, HTML, CSS, JavaScript, and dabbling in algorithms 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhuvanshettyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhuvanshettyy&theme=dark&hide_border=false)<br/>
@@ -49,9 +44,7 @@ Learning basics of C, Python, HTML, CSS, JavaScript, and dabbling in algorithms 
 
 ---
 
-
 [![](https://visitcount.itsvg.in/api?id=bhuvanshettyy&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
